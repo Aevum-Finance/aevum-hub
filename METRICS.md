@@ -2,7 +2,7 @@
 
 # Aevum — by the numbers
 
-_Generated 2026-10-26 · backend @ ef4b6147 · frontend @ b526992b._
+_Generated 2026-11-02 · backend @ ef4b6147 · frontend @ b526992b._
 
 Engineering metrics for Aevum, merged from each submodule’s per-lane stats. Full
 machine-readable detail in [`aevum-stats.json`](aevum-stats.json); per-lane sources in
